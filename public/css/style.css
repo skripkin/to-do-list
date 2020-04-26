@@ -1,0 +1,83 @@
+.nav-color {
+    background-color: rgba(128, 128, 128, 0.329);
+}
+
+.email,
+.name {
+    border-right: 1px solid #dee2e6;
+}
+
+.mleft {
+    margin-left: 61%;
+}
+
+.radmin {
+	margin-left: 70%;
+}
+
+.mbottom {
+	margin-bottom: 5%;
+}
+
+.righthref {
+    margin-left: 90%;
+    margin-top: 1%;
+}
+
+.lhref {
+    text-align: left;
+}
+
+.rhref {
+    text-align: right;
+}
+
+.text {
+    text-align: center;
+    align-self: center;
+}
+
+.btn-position {
+    margin-left: 37.5%;
+}
+
+.cbottom {
+    margin-top: 1%;
+    margin-left: 37.5%;
+}
+
+.overlay_popup {
+	display: none;
+	position: absolute;
+	z-index: 999;
+	top: 0;
+	right: 0; 
+	left: 0;
+	bottom: 0;
+	background:#000; 
+	opacity: 0.5;
+}
+
+.popup {
+	display: none;
+	position: relative;
+	z-index: 1000;
+	margin: 0 25% 0 35%;
+  	width: 20%;
+}
+
+.object{
+	width: 350px;
+	height: 200px;
+	text-align: center;
+	background-color: #eee;
+	padding: 50px 70px;
+}
+
+.block {
+	display: block !important;
+}
+
+.center {
+	margin-top: 123px;
+}
